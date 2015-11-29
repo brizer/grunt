@@ -1,0 +1,12 @@
+#id1 {
+	position:absolute;
+	display:fixed;
+	left:200px;
+}
+#id2 {
+	color:green;
+	background-color:red;
+}
+.red {
+	color:red;
+}

@@ -1,0 +1,8 @@
+.class {
+	-webkit-transform:rotate(20deg);
+	    -ms-transform:rotate(20deg);
+	        transform:rotate(20deg);
+	background-image: -webkit-linear-gradient(top, #444444, #999999);
+	background-image: linear-gradient(to bottom, #444444, #999999);
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL2Nzc0IvYS5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Q0FDQyxnQ0FBd0I7S0FBeEIsNEJBQXdCO1NBQXhCLHdCQUF3QjtDQUN4QixpRUFBK0Q7Q0FBL0QsK0RBQStEO0NBQy9EIiwiZmlsZSI6ImEuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNsYXNzIHtcclxuXHR0cmFuc2Zvcm06cm90YXRlKDIwZGVnKTtcclxuXHRiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQodG8gYm90dG9tLCAjNDQ0NDQ0LCAjOTk5OTk5KTtcclxufSJdfQ== */
