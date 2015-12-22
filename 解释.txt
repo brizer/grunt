@@ -1,2 +1,3 @@
-autoprefixer				autoprefixer插件的使用
+﻿autoprefixer				autoprefixer插件的使用
+csssprite				css精灵插件
 jshint						jshint插件的使用
